@@ -10,6 +10,7 @@ public class CWH_04_litrals {
         float f1 = 5.6f;
         double d1 = 4.55;
         boolean a = true;
+        boolean b = false;
 
         System.out.println(age4);
         System.out.println(ch);
