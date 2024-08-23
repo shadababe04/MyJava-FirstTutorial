@@ -1,6 +1,6 @@
 package com.company;
 
-public class CWH_04_litrals {
+public class CWH_03_litrals {
     public static void main(String[] args) {
         System.out.print("The sum of these number: ");
         int num1 = 54;
